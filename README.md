@@ -27,14 +27,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/0rusty/Hacksense.lua-
 
 ## Supported Games
 
-```css
-+ = up
-```
-```css
-- = down
-```
 
-- **[ ~ ]** **PenaBlox HvH** (in dev)
+- **[in development]** **PenaBlox HvH** 
 
 
 ---
